@@ -1,11 +1,11 @@
 package main
 
 import (
-	"./VkAPI"
+	"linkednodes/vkapi"
 )
 
 func main() {
 
-	VkAPI.GetWallPost()
+	vkapi.GetWallPost()
 
 }

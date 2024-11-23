@@ -1,3 +1,3 @@
-module github.com/MaksimNigamatulin/LinkedNodes
+module main
 
 go 1.23.2
